@@ -1,4 +1,4 @@
-本脚本为油猴脚本，需先安装油猴插件
+本脚本为油猴脚本，需先安装油猴插件，复制main.js代码到插件
 
 使用SOL和KHAI（3TWgDvYBL2YPET2LxnWAwsMeoA8aL4DutNuwat2pKCjC）对刷
 
