@@ -1,0 +1,7 @@
+本脚本为油猴脚本，需先安装油猴插件
+
+使用SOL和KHAI（3TWgDvYBL2YPET2LxnWAwsMeoA8aL4DutNuwat2pKCjC）对刷
+
+需要先在交易栏里选择好代币，使用SOL兑换KHAI
+
+最后右上角点击开始即可
