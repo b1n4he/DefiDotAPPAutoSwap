@@ -134,7 +134,7 @@
                 try {
                     if (currencyElement.textContent === 'SOL') {
                         await handleSOL();
-                    } else if (currencyElement.textContent === 'KHAI') {
+                    } else if (currencyElement.textContent !== 'SOL') {
                         await handleKHAI();
                     }
                 } catch (error) {
